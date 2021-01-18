@@ -1,1 +1,1 @@
-![github.com/Vladiimiirr/statement/blob/main/big.jpg](src)
+![Картинка](https://github.com/Vladiimiirr/statement/blob/main/big.jpg)
