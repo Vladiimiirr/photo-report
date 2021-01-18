@@ -1,1 +1,1 @@
-[big.jpg](src)
+[big](src)
